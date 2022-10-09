@@ -8,9 +8,9 @@ changes -add> staging  --commit-> commit
 3. git commit
 4. git branch
 5. git status
-6. git pull
-7. git push
-8. git rebase
-9. git merge
-10. git cherry pick
-11. git checkout
+6. git checkout 
+7. git pull
+8. git push
+9. git rebase
+10. git merge
+11. git cherry pick
