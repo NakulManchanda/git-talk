@@ -14,3 +14,13 @@ changes -add> staging  --commit-> commit
 9. git rebase
 10. git merge
 11. git cherry pick
+
+
+Event Url:
+https://www.meetup.com/richmond-hill-cloud-big-data-cms-professionals/events/288999602/
+
+Group Url:
+https://www.meetup.com/richmond-hill-cloud-big-data-cms-professionals/
+
+Video Recording:
+https://youtu.be/CZZ_SUL1o0A
